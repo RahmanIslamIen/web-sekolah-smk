@@ -3,12 +3,13 @@
   flex-direction: column;
   align-items: center;
   margin-top: 20px;
-  width: 100%;
+  padding: 20px;
 }
 
 nav {
-  background-color: #333;
+  background-color: #60bbdf;
   padding: 10px;
+  width: 100%;
 }
 
 ul {
